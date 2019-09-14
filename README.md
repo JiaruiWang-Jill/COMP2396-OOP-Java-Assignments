@@ -1,6 +1,6 @@
 # COMP2396-OOP-Java-Assignments
 
-This repo contains my homework solution to COMP2396. Course materials are all provided by [Professor Kenneth Wong](https://i.cs.hku.hk/~kykwong/).
+This repo contains my homework solution to COMP2396. Course materials are from [Professor Kenneth Wong](https://i.cs.hku.hk/~kykwong/).
 
 ## Introduction
 
